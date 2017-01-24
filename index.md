@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# IASC 2P02
+## Derek Chu
 
-You can use the [editor on GitHub](https://github.com/DChu97/DChu97.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisi metus, aliquet vel dapibus non, condimentum eget tortor. Sed nisi lacus, sagittis quis mi sit amet, vulputate ultrices odio. Mauris feugiat lectus lectus, a semper lacus ullamcorper et. In vehicula sagittis augue, nec ornare tortor eleifend eget. Nulla rutrum tincidunt lacinia. Praesent eget hendrerit erat, sit amet laoreet enim. In mollis neque nunc, eu eleifend orci pretium id. Aenean sagittis, eros at mattis pulvinar, tortor ligula luctus erat, ut consequat leo leo ut libero. Morbi sed bibendum ex, sit amet rhoncus odio. Vestibulum vitae accumsan orci.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DChu97/DChu97.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer eget venenatis ligula, eu mollis eros. Donec scelerisque magna eget libero efficitur, id consectetur nisi fermentum. In vulputate arcu quis arcu euismod tincidunt. Vestibulum finibus ac tortor ac fringilla. Nam id nunc viverra, faucibus augue sed, varius ante. Donec turpis arcu, mollis ac posuere vel, porta at risus. Vivamus lobortis at velit vitae molestie. Suspendisse leo est, pulvinar a nulla eu, gravida aliquam turpis. Duis fringilla tincidunt leo non sollicitudin. Vestibulum consequat, metus vitae ultrices scelerisque, magna ex viverra diam, nec vulputate nibh dolor in erat. Nunc hendrerit diam eget facilisis bibendum. Integer sagittis ex justo, id dignissim lorem lobortis in. Nunc ac lectus egestas, vehicula dolor a, sodales eros. 
