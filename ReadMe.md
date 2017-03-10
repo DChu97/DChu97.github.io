@@ -2,7 +2,7 @@
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisi metus, aliquet vel dapibus non, condimentum eget tortor. Sed nisi lacus, sagittis quis mi sit amet, vulputate ultrices odio. Mauris feugiat lectus lectus, a semper lacus ullamcorper et. In vehicula sagittis augue, nec ornare tortor eleifend eget. Nulla rutrum tincidunt lacinia. Praesent eget hendrerit erat, sit amet laoreet enim. In mollis neque nunc, eu eleifend orci pretium id. Aenean sagittis, eros at mattis pulvinar, tortor ligula luctus erat, ut consequat leo leo ut libero. Morbi sed bibendum ex, sit amet rhoncus odio. Vestibulum vitae accumsan orci.
+Hi there! My name is Derek and I am a 2nd year student at Brock University. I am currently enrolled in the Interactive Arts & Science program. This blog is made specifically for the course IASC 2P02 - Solving Problems Through Interactive Arts & Science.
 
 ![](images/weltraum-1465833065YL1.jpg)
 
