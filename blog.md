@@ -1,6 +1,6 @@
 ### Why Digital Humanities Belong In English Departments
 
-Hello fellow students,
+Hello fellow students, 
 
 In one of our very first topics discussed in class, we talked about Kirschenbaum’s article about what digital humanities are, and why it was in English departments. To quickly review; the digital humanities is a field of study, research, teaching, and invention concerned with the intersection of computing and disciplines of regular humanities. To put it in simpler terms, it is the bringing computational methods to help study the things of old such as literature, philosophy, history, culture, etc..  An example would be using a 3D mapping tool like the Z-Axis tool we used in class (finding out the shape and landscape of a certain part of the world).
 
