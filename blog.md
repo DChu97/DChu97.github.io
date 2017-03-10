@@ -1,4 +1,4 @@
-###Why Digital Humanities do belong in English Departments
+### Why Digital Humanities do belong in English Departments
 
 Hello fellow students,
 
@@ -10,7 +10,7 @@ But while everything has a positive there is always a negative side to it. In Dr
 
 While looking through different articles about digital humanities I stumbled upon a case study regarding a mobile learning application for reading early modern Japanese texts called the Kuzushiji project. Although it isn’t “English” I believe the message is still the same with how digital humanities keeps its place. In essence this project was made to help better understand classical Japanese calligraphy as before the end of the 19th century, it became an obstacle to access such knowledge as one character could have 5 different meanings. Because of modernization in the 20th century, modern day experts have lost the ability to read these characters. Ironically they need to read these characters to learn about the past, but in exchange for modernization in the past 150 years they cannot read it. So what role does digital humanities play? It has the advantage of having access to both classical writings and modern day digital technology, combing the both will allow the public to once again be able to read these characters. The project has received a fair amount of feedback but overall the response has been positive. If a similar project were to come along to read things like Shakespeare’s work, I believe the response will also be positive as it allows people who show an interest in that kind of work to better understand it. 
 
-###Works Cited
+### Works Cited
 Drucker, Johanna. "Humanities Approaches to Graphical Display." DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display. Digital Humanities Quaterly, n.d. Web. 4 Mar. 2017. <http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html>.
 Kirschenbaum, Matthew. "Debates in the Digital Humanities." Debates in the Digital Humanities. Dhdebates, n.d. Web. 3 Mar. 2017. <http://dhdebates.gc.cuny.edu/debates/text/38>.
 Hasimoto, Yuta, Yoichi Iikura, Yukio Hisada, SungKook Kang, Tomoyo Arisawa, and Daniel Kobayashi-Better. "The Kuzushiji Project: Developing a Mobile Learning Application for Reading Early Modern Japanese Texts." DHQ: Digital Humanities Quarterly: The Kuzushiji Project: Developing a Mobile Learning Application for Reading Early Modern Japanese Texts. Digital Humanities Quaterly, n.d. Web. 7 Mar. 2017. <http://www.digitalhumanities.org/dhq/vol/11/1/000281/000281.html>.
