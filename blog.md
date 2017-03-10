@@ -1,4 +1,4 @@
-### Why Digital Humanities do belong in English Departments
+### Why Digital Humanities Belong In English Departments
 
 Hello fellow students,
 
