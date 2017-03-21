@@ -12,7 +12,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 
 ### Blog Post
 
-[continue reading](blog)
+[Continue reading](blog)
 
 ### Solo Presentation
 
