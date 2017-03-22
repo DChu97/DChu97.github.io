@@ -16,4 +16,4 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 
 ### Solo Presentation
 
-[Slide Deck](slide)
+[Slide Deck](reveal/index.hmtl)
